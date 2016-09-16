@@ -1,0 +1,6 @@
+2016/9/16
+关于KickRequest：
+	模仿Option中的WalkInKick,写了一个Shoot的option,主要是对kickRequest的赋值
+	在Representations/MotionControl的kickRequest.h文件中可以看到可以赋值的变量，源码中只提供了kickForward一种，其相应的动作文件在Config/KickEngine下
+	目前射门的速度还是比较慢，并且距离比较进，这需要调节动作时间（在动作文件里有定义）和动作开始前球的位置才有可能解决
+	射门的方向只能是当前机器人面朝的方向，但是可以更改BehaviorControl2015/Libraries/LibCodeRelease.cpp 中对angleToGoal赋值的那句话来改变目标方向
