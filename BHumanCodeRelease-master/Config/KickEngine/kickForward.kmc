@@ -17,7 +17,7 @@
  numberOfPhases = 7 ;
  phaseParameters = [
  {
- duration = 2000 ;
+ duration = 1000 ;
  leftFootTra1 = {x = 0 ; y = 55 ; z = -230 ;};
  leftFootTra2 = {x = 0 ; y = 55 ; z = -230 ;};
  leftFootRot1 = {x = 0 ; y = 0 ; z = 0 ;};
@@ -41,7 +41,7 @@
  odometryOffset = {x = 0 ; y = 0 ; z = 0 ;};
  },
  {
- duration = 2000 ;
+ duration = 1000 ;
  leftFootTra1 = {x = 0 ; y = -5 ; z = -230 ;};
  leftFootTra2 = {x = 0 ; y = -5 ; z = -230 ;};
  leftFootRot1 = {x = 0 ; y = 0 ; z = 0 ;};
@@ -65,7 +65,7 @@
  odometryOffset = {x = 0 ; y = 0 ; z = 0 ;};
  },
  {
- duration = 1000 ;
+ duration = 500 ;
  leftFootTra1 = {x = 0 ; y = -5 ; z = -230 ;};
  leftFootTra2 = {x = 0 ; y = -5 ; z = -230 ;};
  leftFootRot1 = {x = 0 ; y = 0 ; z = 0 ;};
@@ -89,7 +89,7 @@
  odometryOffset = {x = 0 ; y = 0 ; z = 0 ;};
  },
  {
- duration = 1000 ;
+ duration = 500 ;
  leftFootTra1 = {x = 0 ; y = -5 ; z = -230 ;};
  leftFootTra2 = {x = 0 ; y = -5 ; z = -230 ;};
  leftFootRot1 = {x = 0 ; y = 0 ; z = 0 ;};
@@ -113,7 +113,7 @@
  odometryOffset = {x = 0 ; y = 0 ; z = 0 ;};
  },
  {
- duration = 500 ;
+ duration = 250 ;
  leftFootTra1 = {x = 0 ; y = -5 ; z = -230 ;};
  leftFootTra2 = {x = 0 ; y = -5 ; z = -230 ;};
  leftFootRot1 = {x = 0 ; y = 0 ; z = 0 ;};
@@ -137,7 +137,7 @@
  odometryOffset = {x = 0 ; y = 0 ; z = 0 ;};
  },
  {
- duration = 2000 ;
+ duration = 1000 ;
  leftFootTra1 = {x = 0 ; y = -5 ; z = -230 ;};
  leftFootTra2 = {x = 0 ; y = -5 ; z = -230 ;};
  leftFootRot1 = {x = 0 ; y = 0 ; z = 0 ;};
@@ -161,7 +161,7 @@
  odometryOffset = {x = 0 ; y = 0 ; z = 0 ;};
  },
  {
- duration = 4000 ;
+ duration = 2000 ;
  leftFootTra1 = {x = 0 ; y = 25 ; z = -230 ;};
  leftFootTra2 = {x = 0 ; y = 55 ; z = -230 ;};
  leftFootRot1 = {x = 0 ; y = 0 ; z = 0 ;};

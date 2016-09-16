@@ -23,9 +23,6 @@ option(RightKick,((WalkRequest) KickType) kickType)
 
   state(rightkick)
   {
-    transition
-    {
-    }
     action
     {
 		  Annotation("Kick use right'");

@@ -21,6 +21,7 @@
 
 #include "Options/Output/MotionRequest/GetUpEngine.h"
 #include "Options/Output/MotionRequest/InWalkKick.h"
+#include "Options/Output/MotionRequest/Shoot.h"
 #include "Options/Output/MotionRequest/PathToTarget.h"
 #include "Options/Output/MotionRequest/SpecialAction.h"
 #include "Options/Output/MotionRequest/Stand.h"
@@ -36,6 +37,7 @@
 
 #include "Options/Roles/Striker.h"
 #include "Options/Roles/StrikerDong1.h"
+#include "Options/Roles/StrikerTestShoot.h"
 
 #include "Options/Skills/ArmContact.h"
 #include "Options/Skills/GetUp.h"

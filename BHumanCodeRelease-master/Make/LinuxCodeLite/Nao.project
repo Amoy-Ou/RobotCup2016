@@ -52,6 +52,7 @@
           <VirtualDirectory Name="Roles">
             <File Name="../../Src/Modules/BehaviorControl/BehaviorControl2015/Options/Roles/Striker.h"/>
             <File Name="../../Src/Modules/BehaviorControl/BehaviorControl2015/Options/Roles/StrikerDong1.h"/>
+            <File Name="../../Src/Modules/BehaviorControl/BehaviorControl2015/Options/Roles/StrikerTestShoot.h"/>
           </VirtualDirectory>
           <VirtualDirectory Name="Skills">
             <File Name="../../Src/Modules/BehaviorControl/BehaviorControl2015/Options/Skills/ArmContact.h"/>
@@ -83,6 +84,7 @@
               <File Name="../../Src/Modules/BehaviorControl/BehaviorControl2015/Options/Output/MotionRequest/Stand.h"/>
               <File Name="../../Src/Modules/BehaviorControl/BehaviorControl2015/Options/Output/MotionRequest/WalkAtSpeed.h"/>
               <File Name="../../Src/Modules/BehaviorControl/BehaviorControl2015/Options/Output/MotionRequest/SpecialAction.h"/>
+              <File Name="../../Src/Modules/BehaviorControl/BehaviorControl2015/Options/Output/MotionRequest/Shoot.h"/>
             </VirtualDirectory>
             <File Name="../../Src/Modules/BehaviorControl/BehaviorControl2015/Options/Output/PlaySound.h"/>
             <File Name="../../Src/Modules/BehaviorControl/BehaviorControl2015/Options/Output/Annotation.h"/>

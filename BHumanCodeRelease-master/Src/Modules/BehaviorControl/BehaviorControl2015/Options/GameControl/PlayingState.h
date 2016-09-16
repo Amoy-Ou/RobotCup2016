@@ -5,7 +5,8 @@ option(PlayingState)
     action
     {
       //Striker();
-	  StrikerDong1();
+	  //StrikerDong1();
+	  StrikerTestShoot();
 	  ShowRobotPose(theRobotPose);
     }
   }
